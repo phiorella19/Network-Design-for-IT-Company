@@ -18,7 +18,7 @@
 
 * Branch Offices (Sydney)
   
-![GitHub Screenshot Demo](images/BranchOffice_Sydney.drawio.png)
+![GitHub Screenshot Demo](images/Branch_Offices.png)
 
 ## Explanation:
 
