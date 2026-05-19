@@ -95,4 +95,4 @@ Staff consultants use wired PCs with assigned static IPs.
 | CCTV Camera    | Hikvision    | DS-2CD2146G1-I              | PoE          | 4MP, 2688x1520     | 8        | $240       | [Hikvision Camera](https://www.hikvision.com/en/products/IP-Products/Network-Cameras/) |
 | Router (Branch)| Cisco        | ISR 4321                   | 2            | WAN: 1 Gbps        | 1        | $2,400     | [Cisco ISR 4321](https://www.cisco.com/c/en/us/products/routers/4000-series-integrated-services-routers-isr/index.html) |
 | Firewall (Branch) | Fortinet | FortiGate 60F              | 10           | 1 Gbps             | 1        | $1,800     | [FortiGate 60F](https://www.fortinet.com/products/next-generation-firewall/fortigate-60f) |
-| Switch (Branch)| Cisco        | CBS350-24T-4G              | 24           | 1 Gbps             | 1        | $1,000     | [Cisco CBS350](https://www.cisco.com/c/en/us/products/switches/business-
+| Switch (Branch)| Cisco        | CBS350-24T-4G              | 24           | 1 Gbps             | 1        | $1,000     | [Cisco CBS350](https://www.cisco.com/c/en/us/products/switches/business-350-series-managed-switches/index.html) |
